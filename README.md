@@ -5,8 +5,8 @@
 
 - docker-compose up -d
 
-- Testes em limiter_test.go
-
+- Testes em cmd/middleware/limiter_test.go
+  
 ## Constantes de configuração - localizadas no arquivo .env
 * ENABLE_RATE_LIMIT_BY_IP
     - Permite que o limite de taxa funcione por IP quando seu valor for [true]
