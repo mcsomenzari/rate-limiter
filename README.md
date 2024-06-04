@@ -4,9 +4,7 @@
 ## Passos para execução:
 
 - docker-compose up -d
-- go md tidy
-- cd cmd
-- go run main.go
+
 - Testes em limiter_test.go
 
 ## Constantes de configuração - localizadas no arquivo .env
